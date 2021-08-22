@@ -21,7 +21,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iammostafa76&show_icons=true&theme=tokyonight&hide=contribs,prs" />
-  <img width="48%" height="130px"  src="https://github-readme-streak-stats.herokuapp.com/?user=iammostafa76&theme=tokyonight" />
+  <img width="48%" height="120px"  src="https://github-readme-streak-stats.herokuapp.com/?user=iammostafa76&theme=tokyonight" />
 </p>
 
 <!-- <img width="550" alt="Amir Mostofaa Github Stats"  src="https://github-readme-stats-ptub3mxm9-amirmostofaa.vercel.app/api?username=amirmostofaa&show_icons=true&theme=tokyonight&hide=contribs,prs"/> -->
