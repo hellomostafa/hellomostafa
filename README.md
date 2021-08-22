@@ -1,6 +1,6 @@
 ## Hi 👋, I'm [Mostafa M.!][website]
 
-### A passionate self-taught Front End developer from Bangladesh.
+### A passionate Front End developer from Bangladesh.
 
 [<img align="left" alt="mostafa | Twitter" width="22px" src="https://i.ibb.co/b7g3Wjt/Twitter-amir.png" />][twitter]
 [<img align="left" alt="mostafa | LinkedIn" width="22px" src="https://i.ibb.co/9Z59yDc/linkedin-amir.png" />][linkedin]
