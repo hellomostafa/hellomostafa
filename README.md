@@ -1,12 +1,11 @@
 ## Hi there, I'm [Mostafa!][website] 👋
 
-<br />
-<br />
-
 ### Hi, I'm Mostafa Mahmud, a passionate self-taught Front End developer from Bangladesh.
 
 [<img align="left" alt="mostafa | Twitter" width="22px" src="https://i.ibb.co/b7g3Wjt/Twitter-amir.png" />][twitter]
 [<img align="left" alt="mostafa | LinkedIn" width="22px" src="https://i.ibb.co/9Z59yDc/linkedin-amir.png" />][linkedin]
+<br />
+<br />
 
 🔭 I’m currently working to improve my MERN skill! <br/>
 🥅 2021 Goals: Be a better version of myself <br/>
@@ -22,7 +21,7 @@
 <br />
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iammostafa76&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iammostafa76&show_icons=true&theme=tokyonight&hide=contribs,prs" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iammostafa76&theme=tokyonight" />
 </p>
 
