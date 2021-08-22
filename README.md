@@ -1,12 +1,11 @@
-## Hi there, I'm [Mostafa!][website] 👋
+## Hi 👋, I'm [Mostafa M.!][website]
 
-### Hi, I'm Mostafa Mahmud, a passionate self-taught Front End developer from Bangladesh.
+### A passionate self-taught Front End developer from Bangladesh.
 
 [<img align="left" alt="mostafa | Twitter" width="22px" src="https://i.ibb.co/b7g3Wjt/Twitter-amir.png" />][twitter]
 [<img align="left" alt="mostafa | LinkedIn" width="22px" src="https://i.ibb.co/9Z59yDc/linkedin-amir.png" />][linkedin]
 <br />
 <br />
-
 🔭 I’m currently working to improve my MERN skill! <br/>
 🥅 2021 Goals: Be a better version of myself <br/>
 ⚡ Fun fact: I love to explore new Technologies and Places ! <br/>
@@ -22,7 +21,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iammostafa76&show_icons=true&theme=tokyonight&hide=contribs,prs" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iammostafa76&theme=tokyonight" />
+  <img width="48%" height="130px"  src="https://github-readme-streak-stats.herokuapp.com/?user=iammostafa76&theme=tokyonight" />
 </p>
 
 <!-- <img width="550" alt="Amir Mostofaa Github Stats"  src="https://github-readme-stats-ptub3mxm9-amirmostofaa.vercel.app/api?username=amirmostofaa&show_icons=true&theme=tokyonight&hide=contribs,prs"/> -->
