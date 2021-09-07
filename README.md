@@ -7,7 +7,7 @@
 <br />
 <br />
 🔭 I’m currently working to improve my MERN skill! <br/>
-🥅 2021 Goals: Be a better version of myself <br/>
+🥅 2021 Goals: Be a better version of myself and Explore new Tech<br/>
 ⚡ Fun fact: I love to explore new Technologies and Places ! <br/>
 
 ### **Languages and Tools:**
