@@ -21,8 +21,8 @@
 
 <p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iammostafa76&show_icons=true&theme=blueberry_duo&&hide=contribs,prs" />
-  <img width="50%" height="120px"  src="https://github-readme-streak-stats.herokuapp.com?user=iammostafa76&theme=blueberry_duo" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iammostafa76&show_icons=true&theme=tokyonight&&hide=contribs,prs" />
+  <img width="50%" height="120px"  src="https://github-readme-streak-stats.herokuapp.com?user=iammostafa76&theme=tokyonight" />
 
 </p>
 
