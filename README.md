@@ -6,9 +6,9 @@
 [<img align="left" alt="mostafa | LinkedIn" width="22px" src="https://i.ibb.co/9Z59yDc/linkedin-amir.png" />][linkedin]
 <br />
 <br />
-🔭 I’m currently working to improve my MERN skill ! <br/>
+🔭 I’m currently working to improve my MERN skill !<br/>
 🥅 2021 Goals: Be a better version of myself and Explore new Tech !<br/>
-⚡ Fun fact: I love to explore new Technologies and Places ! <br/>
+⚡ Fun fact: I love to explore new Technologies and Places !<br/>
 
 ### **Languages and Tools:**
 
