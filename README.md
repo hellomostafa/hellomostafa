@@ -1,9 +1,9 @@
 ## Hi 👋, I'm [Mostafa Mahmud!][website]
 
 ### A passionate Web Developer from Bangladesh.
-![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow) <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![](https://komarev.com/ghpvc/?username=iammostafa76)
 [<img align="left" alt="mostafa | Twitter" width="22px" src="https://i.ibb.co/b7g3Wjt/Twitter-amir.png" />][twitter]
 [<img align="left" alt="mostafa | LinkedIn" width="22px" src="https://i.ibb.co/9Z59yDc/linkedin-amir.png" />][linkedin]
+![](https://komarev.com/ghpvc/?username=iammostafa76)
 <br />
 <br />
 🔭 I’m currently Learning GraphQL, NextJS and TypeScript.<br/>
