@@ -3,11 +3,11 @@
 ### A passionate Web Developer from Bangladesh.
 [<img align="left" alt="mostafa | Twitter" width="22px" src="https://i.ibb.co/b7g3Wjt/Twitter-amir.png" />][twitter]
 [<img align="left" alt="mostafa | LinkedIn" width="22px" src="https://i.ibb.co/9Z59yDc/linkedin-amir.png" />][linkedin]
-![](https://komarev.com/ghpvc/?username=iammostafa76)
+![](https://komarev.com/ghpvc/?username=hellomostafa)
 <br />
 <br />
-🔭 I’m currently Learning GraphQL, NextJS and TypeScript.<br/>
-🥅 2022 Goals: Be a better version of myself and Explore new Tech!<br/>
+🔭 I’m currently Learning DSA in JavaScript.<br/>
+🥅 2023 Goals: Be a better version of myself and Explore new Tech!<br/>
 ⚡ Fun fact: I love to explore new Technologies and Places!<br/>
 
 ### **Languages and Tools:**
@@ -21,17 +21,14 @@
 
 <p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iammostafa76&show_icons=true&theme=tokyonight&&hide=contribs,prs&hide_border=true" />
-  <img width="50%" height="120px"  src="https://github-readme-streak-stats.herokuapp.com?user=iammostafa76&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hellomostafa&show_icons=true&theme=tokyonight&&hide=contribs,prs&hide_border=true" />
+  <img width="50%" height="120px"  src="https://github-readme-streak-stats.herokuapp.com?user=hellomostafa&theme=tokyonight&hide_border=true" />
 
 </p>
 
 <!-- [![Top Langs card](https://github-readme-stats-ptub3mxm9-amirmostofaa.vercel.app/api/top-langs/?username=amirmostofaa&card_width=550)](https://github.com/amirmostofaa/amirmostofaa) -->
 
-<!-- #### Profile Visits
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=iammostafa76.iammostafa76) -->
 
 [website]: https://mostafamahmud.netlify.app/
-[twitter]: https://twitter.com/iammostafa76
-[linkedin]: https://www.linkedin.com/in/iammostafa/
+[twitter]: https://twitter.com/helloomostafa
+[linkedin]: https://www.linkedin.com/in/hellomostafa/
