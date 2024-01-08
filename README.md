@@ -7,7 +7,7 @@
 <br />
 <br />
 🔭 I’m currently Learning DSA in JavaScript and Liquid.<br/>
-🥅 2023 Goals: Be a better version of myself and Explore new Tech!<br/>
+🥅 2024 Goals: Be a better version of myself and Explore new Tech!<br/>
 ⚡ Fun fact: I love to explore new Technologies and Places!<br/>
 
 ### **Languages and Tools:**
