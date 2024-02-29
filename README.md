@@ -19,12 +19,12 @@
 <br />
 <br />
 
-<p align="center">
+<!-- <p align="center">
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hellomostafa&show_icons=true&theme=tokyonight&&hide=contribs,prs&hide_border=true" />
   <img width="50%" height="120px"  src="https://github-readme-streak-stats.herokuapp.com?user=hellomostafa&theme=tokyonight&hide_border=true" />
 
-</p> -->
+</p> --> -->
 
 <!-- [![Top Langs card](https://github-readme-stats-ptub3mxm9-amirmostofaa.vercel.app/api/top-langs/?username=amirmostofaa&card_width=550)](https://github.com/amirmostofaa/amirmostofaa) -->
 
